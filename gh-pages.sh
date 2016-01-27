@@ -15,6 +15,7 @@ git add .gitignore
 git commit -m "Ignore some files"
 # 复制 _book里的文件
 cp -r _book/* .
-git add .
-git commit -m "Publish book"
-git push -u origin gh-pages
+# 提交到github分支就自己手动提交吧
+# git add .
+# git commit -m "Publish book"
+# git push -u origin gh-pages
