@@ -1,5 +1,5 @@
 {
-    "author": "miaocai",
+    "author": "renmaomin",
     "description": "A doc about GitHub Flavored Markdown",
     "extension": null,
     "generator": "site",
@@ -11,9 +11,12 @@
             "google": null,
             "twitter": null,
             "weibo": null
+        },
+        "sidebar": {
+            "gitbook 简明教程": "http://www.chengweiyang.cn/gitbook/"
         }
     },
-    "output": null,
+    "output": "./gh-pages",
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
@@ -28,7 +31,8 @@
         "paperSize": "a4"
     },
     "plugins": [
-        "disqus"
+        "disqus",
+        "anchors"
     ],
     "pluginsConfig": {
         "disqus": {
