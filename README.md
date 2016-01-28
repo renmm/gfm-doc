@@ -1,7 +1,7 @@
 # GFM 语法 简体中文版
 GFM 是GitHub Flavored Markdown的简称,此文档是参考官方的文档及互联网上的相关文档整理的，主要结合个人经验写成。由于经验有限，难免存在诸多疏漏或者理解不到位的地方，还请斧正！
 
-本分发布在http://www.renmaomin.com/gfm-doc/
+本文档发布在http://www.renmaomin.com/gfm-doc/
 
 ## 项目结构
 - gfm-doc
