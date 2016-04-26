@@ -18,7 +18,7 @@ GFM 是GitHub Flavored Markdown的简称,此文档是参考官方的文档及互
 
 ## 克隆最新项目
 ```
-$ git clone -o react-starter-kit -b master --single-branch https://github.com/renmm/gfm-doc MyApp
+$ git clone -o gfm-doc -b master --single-branch https://github.com/renmm/gfm-doc MyApp
 $ cd MyApp
 ```
 ## 构建文档
