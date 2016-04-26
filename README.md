@@ -15,7 +15,11 @@ GFM 是GitHub Flavored Markdown的简称,此文档是参考官方的文档及互
   - .gitignore 
   - package.json
   - README.md
-
+## 克隆最新项目
+```
+$ git clone -o react-starter-kit -b master --single-branch https://github.com/renmm/gfm-doc MyApp
+$ cd MyApp
+```
 ## 构建文档
 文档采用[gitbook][]构建。
 启动本地服务，以便能在本地查看文档，使用以下命令：
