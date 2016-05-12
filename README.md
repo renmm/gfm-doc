@@ -28,7 +28,7 @@ $ cd MyApp
 $ npm install
 $ npm start
 ```
-服务启动成功，复制`http://localhost:4000/`到浏览器
+服务启动成功，复制`http://localhost:4000/`到浏览器就可以
 
 ## 发布到 GitHub Pages
 master分支，托管文档源代码，gh-pages分支托管编译后的代码。
